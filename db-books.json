@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "name": "Animal Farm",
+      "img": "https://picsum.photos/seed/82750dce-4faa-428e-92bd-a47d8a74a3a3/300/200",
+      "id": "82750dce-4faa-428e-92bd-a47d8a74a3a3"
+    },
+    {
+      "name": "Hello",
+      "img": "https://picsum.photos/seed/46473397-f3ad-499d-954d-402f9b646563/300/200",
+      "id": "46473397-f3ad-499d-954d-402f9b646563"
+    }
+  ]
+}

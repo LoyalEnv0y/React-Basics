@@ -1,0 +1,7 @@
+.property-list {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+
+	height: 150px;
+}

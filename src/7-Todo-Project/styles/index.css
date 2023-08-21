@@ -1,0 +1,26 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+
+.todo {
+	min-width: 400px;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.todo-list {
+	width: 100%;
+}
+
+.todo-item {
+	width: 100%;
+	display: flex !important;
+	justify-content: space-between !important;
+}
+
+.a {
+	width: 95%;
+}

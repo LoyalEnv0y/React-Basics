@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "name": "Roman Bayer",
+      "id": 1
+    },
+    {
+      "name": "Ada Conn",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Small Concrete Chair",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Cotton Pizza",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Fantastic Concrete Pizza",
+      "id": 6
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://picsum.photos/seed/26YTY/640/480",
+      "albumId": 3,
+      "id": 1
+    },
+    {
+      "url": "https://picsum.photos/seed/bC1vYvASgd/640/480",
+      "albumId": 4,
+      "id": 4
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=8055922073010176",
+      "albumId": 3,
+      "id": 5
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4420791143759872",
+      "albumId": 3,
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.color-cell {
+	width: 100px;
+	height: 100px;
+	
+	cursor: pointer;
+	
+	border-radius: 10px;
+
+	margin: 2px;
+}

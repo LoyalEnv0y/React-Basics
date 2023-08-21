@@ -1,0 +1,103 @@
+Look here to see a map of which topics are addressed in which files.
+
+Props {
+	Default: 								./1-Basics/src/components/Greeter.jsx
+	Numbers and destructuring props: 		./1-Basics/src/components/Die.jsx
+	Arrays and Objects:						./1-Basics/src/components/ListPicker.jsx
+} 
+
+Conditionals {
+	Default:								./1-Basics/src/components/DoubleDice.jsx
+}
+
+Dynamic Styles {
+	Default:								./1-Basics/src/components/DoubleDice.jsx
+}
+
+Loops {
+	Default:								./1-Basics/src/components/ColorList.jsx
+}
+
+Events {
+	Default:								./1-Basics/src/components/Clicker.jsx
+	Non-click event:						./1-Basics/src/components/Clicker.jsx
+	Forms and the event object:				./1-Basics/src/components/Form.jsx
+	Events with anonymous functions:		./2-States/src/components/ScoreKeeper.jsx
+	How DOM events work:					./Projects/3-Components-Guide/components/Dropdown.jsx
+}
+
+States {
+	Default:								./2-States/src/components/Counter.jsx
+	Better use of state functions:			./2-States/src/components/Counter2.jsx
+	State initializer functions:			./2-States/src/components/Dumbo.jsx
+	States with objects:					./2-States/src/components/ScoreKeeper.jsx
+	States with Arrays and using UUID:		./2-States/src/components/EmojiClicker.jsx
+}
+
+Forms {
+	Changing the input:						./4-Forms/src/components/UsernameForm.jsx
+	Working with multiple inputs:			./4-Forms/src/components/BetterSignUpForm.jsx
+	Uncontrolled forms with form data API	./4-Forms/src/components/LoginForm.jsx
+	Validating forms with react-hook-form	./4-Forms/src/components/UseForm.jsx
+}
+
+Effects {
+	Default:								./5-Effects/src/components/Counter.jsx
+	Using APIs with effects:				./5-Effects/src/components/QuoteFetcher.jsx
+	Cleanup functions:						
+}
+
+Context {
+	Creating Context:						./Projects/2-Book-Shop/context/books.jsx
+	Wrapping Context:						./Projects/2-Book-Shop/components/App.jsx
+	Using Context:							./Projects/2-Book-Shop/components/BookEdit 
+}
+
+CallBack {
+	Defining CallBack:						./Projects/2-Book-Shop/context/books.jsx
+	Using Effect with CallBack				./Projects/2-Book-Shop/components/BookApp.jsx
+}
+
+Ref {
+	Default:								./Projects/3-Components-Guide/components/Dropdown.jsx
+}
+
+Navigation {
+	Default:								./Projects/3-Components-Guide/context/Navigation.jsx
+}
+
+ReactRouter {
+	Default:								./Projects/4-Contacts-React-Router/App.jsx
+}
+
+Portals {
+	Default: 								./Projects/3-Components-Guide/pages/ModalPage.jsx
+}
+
+Custom Hooks {
+	Default:								./Projects/3-Components-Guide/hooks/useSort.js
+}
+
+Reducer {
+	Default:								./Projects/3-Components-Guide/components/Counter.jsx
+}
+
+Redux and React-Redux {
+	Redux:									./Projects/5-Playlist-Tracker/store/index.js
+	Connection Redux store to React:		./Projects/5-Playlist-Tracker/App.jsx
+	Using React Redux:						./Projects/5-Playlist-Tracker/components/MoviePlaylist.jsx
+	Async Thunk Functions:					./Projects/7-Album-Storage/store/thunks/*
+	React Toolkit Query: 					./Projects/7-Album-Storage/store/apis/albumsApi.jsx
+}
+
+Exercises {
+	Props, Conditionals, Loops:				./1-Basics/src/components/SlotMachine.jsx
+	Dynamic Styles 							./1-Basics/src/components/ShoppingList.jsx
+	Nesting Components 						./1-Basics/src/components/PropertyList.jsx
+	Basic States							./2-States/src/components/ColorBox.jsx
+	Intermediate States:					./2-States/src/components/ScoreKeeper2.jsx
+	Basic App Structure:					./3-App-Structure/src/components/LuckyDice.jsx
+	Using Form Data:						./4-Forms/src/components/ShoppingList.jsx
+	Using effects to get api data:			./5-Effects/src/components/ProfileViewer.jsx
+}
+

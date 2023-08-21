@@ -1,0 +1,13 @@
+/* 
+	Do not forget to turn off warnings for unknown rules
+	Guide here: https://flaviocopes.com/fix-unknown-at-rule-tailwind/
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Any svgs that are inside a button */
+button > svg {
+	margin-right: 5px;
+}

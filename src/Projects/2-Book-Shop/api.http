@@ -1,0 +1,33 @@
+# This is just for mocking and testing the api. It helps to write documentation
+# for http requests to the server.
+
+
+# Get all books
+GET http://localhost:3001/books HTTP/1.1
+Content-Type: application/json
+
+###
+
+# Add a book
+POST http://localhost:3001/books HTTP/1.1
+Content-Type: application/json
+
+{
+	"title": "Harry Potter"
+}
+
+###
+
+# Delete a book with it's id
+DELETE http://localhost:3001/books/2 HTTP/1.1
+Content-Type: application/json
+
+###
+
+# Update a book with it's id
+PATCH http://localhost:3001/books/1 HTTP/1.1
+Content-Type: application/json
+
+{
+	"title": "The Man in the High Castle"
+}
